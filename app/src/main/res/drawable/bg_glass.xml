@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Semi-transparent white background -->
+    <solid android:color="#99FFFFFF" />
+    <!-- Rounded corners -->
+    <corners android:radius="24dp" />
+    <!-- Subtle white border to enhance glass edge -->
+    <stroke
+        android:width="1.5dp"
+        android:color="#B3FFFFFF" />
+</shape>
